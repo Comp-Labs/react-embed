@@ -4,7 +4,7 @@
   "description": "React-Embed allows you to easily embed popular 3rd party media content such as YouTube videos, Tweets, Instagram posts, Egghead lessons, Spotify, TikTok and many more straight into your MDX, JSX, TSX, and more...",
   "author": "Comp-Labs",
   "license": "MIT",
-  "repository": "Comp-Labs/@techfiddle/react-embed",
+  "repository": "Comp-Labs/react-embed",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
